@@ -1,4 +1,4 @@
-import TiktokReport
+import alex_enc
 import inspect
 
 try:
@@ -7,4 +7,4 @@ except:
     print("Signature not found. Trying main...")
 
 # যদি main কাজ করে তবে এটিই ব্যবহার করুন
-TiktokReport.main()
+alex_enc.main()
